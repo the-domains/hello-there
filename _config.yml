@@ -1,0 +1,14 @@
+layout_spectrum: 0.10316678718663752
+typography_spectrum: 0.06708012172020972
+color:
+  brandStrength: 0.43818268831819296
+  lightness: 0.24855974316596985
+  saturation: 0.4845368538517505
+  rhythmicContrast: 0.10079832491464913
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Hello There
