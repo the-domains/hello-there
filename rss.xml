@@ -4,14 +4,14 @@
         <description><![CDATA[Hello There]]></description>
         <link>https://thegrid.ai/hello-there/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 19:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 19:36:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hello-there/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b83c32b-5d5d-4835-989b-7579b3b91310.jpg">]]></description>
+            <title><![CDATA[Title]]></title>
+            <description><![CDATA[<article><h1>Title</h1><p>Text above fold.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b83c32b-5d5d-4835-989b-7579b3b91310.jpg"></article>]]></description>
             <link>https://thegrid.ai/hello-there/0f8f701b-dea6-4d55-997f-d067bc2d8ce8/index.html</link>
             <guid isPermaLink="false">0f8f701b-dea6-4d55-997f-d067bc2d8ce8</guid>
-            <pubDate>Thu, 30 Jun 2016 19:34:12 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2016 19:35:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Title]]></title>
